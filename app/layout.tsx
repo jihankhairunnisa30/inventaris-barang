@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Inventaris Aset IT - DPMPTSP Kota Bandung",
+  title: "Inventaris Aset - DPMPTSP Kota Bandung",
   description: "Sistem Pengelolaan Inventaris Aset IT DPMPTSP Kota Bandung",
 };
 
